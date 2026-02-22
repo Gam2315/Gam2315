@@ -1,22 +1,19 @@
-# Gamaliel Quintos
+# 👋 Hi, I'm Gamaliel Quintos
 
-I am **Gamaliel Quintos**, an Information Technology student majoring in **Web Development**. I am passionate about building responsive, user-friendly, and scalable web applications. I continuously improve my skills by working on projects and exploring modern web technologies.
+My name is **Gamaliel Quintos**, and I am an **Information Technology student** majoring in **Web Development**. I am passionate about building modern, responsive, and user-friendly websites and web applications.
 
-## Tech Stack
+## 🎓 About Me
 
-### Frontend
-- HTML  
-- CSS  
-- JavaScript  
-- Tailwind CSS  
-- Bootstrap  
+- Currently pursuing a degree in **Information Technology**
+- Specializing in **Web Development**
+- Goal: To become a full-stack web developer
 
-### Backend
-- PHP  
-- Python  
-- Laravel  
+## 🚀 Skills & Technologies
 
-## Skills & Focus
-- Responsive Web Design  
-- Frontend Development  
-- Backend Development  
+Here are some of the technologies I work with:
+
+- **Frontend:** HTML, CSS, JavaScript  
+- **Frameworks/Libraries:** Laravel, Tailwind CSS, Bootstrap  
+- **Backend:** PHP, Python  
+- **Database:** MySQL  
+- **Tools:** Git, GitHub, VS Code  
