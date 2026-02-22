@@ -1,16 +1,22 @@
-## Hi there 👋
+# Gamaliel Quintos
 
-<!--
-**Gam2315/Gam2315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Gamaliel Quintos**, an Information Technology student majoring in **Web Development**. I am passionate about building responsive, user-friendly, and scalable web applications. I continuously improve my skills by working on projects and exploring modern web technologies.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend
+- HTML  
+- CSS  
+- JavaScript  
+- Tailwind CSS  
+- Bootstrap  
+
+### Backend
+- PHP  
+- Python  
+- Laravel  
+
+## Skills & Focus
+- Responsive Web Design  
+- Frontend Development  
+- Backend Development  
